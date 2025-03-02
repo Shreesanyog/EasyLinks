@@ -16,10 +16,10 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div className="flex flex-col justify-center items-center md:items-start space-y-6">
             <h1 className={`text-4xl sm:text-4xl font-bold ${poppins.className} text-center md:text-justify`}>
-              Easily shorten and track links with the best URL shortener.
+              Easily shorten and track links with the best URL shortener of EasyLinks.
             </h1>
             <p className="text-lg sm:text-xl opacity-80 text-center md:text-justify px-4 py-3">
-              Turn long URLs into shareable, trackable links using EasyLink&apos;s instant custom URL generator for smooth integration.
+              Turn long URLs into shareable, trackable links using EasyLinks instant custom URL generator for smooth integration.
             </p>
             <div className="flex gap-6 justify-center md:justify-start">
               <Link href="/shorten">
@@ -50,7 +50,7 @@ export default function Home() {
           </div>
           <div className="bg-gradient-to-r from-purple-600 to-pink-600 rounded-2xl p-6 shadow-xl  text-white space-y-4 hover:scale-105 transition duration-300">
             <h3 className="text-2xl font-semibold text-center">Unlimited Links</h3>
-            <p className="text-justify">Unlike many competitors, EasyLink offers unlimited URL shortening. Whether you&apos;re managing thousands of links or just a handful, our platform scales to meet your needs</p>
+            <p className="text-justify">Unlike many competitors, EasyLink offers unlimited URL shortening. Whether you are managing thousands of links or just a handful, our platform scales to meet your needs</p>
           </div>
         </div>
       </section>
