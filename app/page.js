@@ -61,7 +61,7 @@ export default function Home() {
         <div className="flex flex-col-reverse md:flex-row items-center justify-center gap-8">
           <div className="space-y-6 text-gray-600 px-4 sm:px-8 md:w-1/2">
             <p className="text-lg sm:text-xl opacity-90">
-              <b>EasyLinks</b> is designed to be simple, efficient, and user-friendly. Whether you're a business, blogger, or marketer, our tool helps you share your content in a smarter way.
+              <b>EasyLinks</b> is designed to be simple, efficient, and user-friendly. Whether you are a business, blogger, or marketer, our tool helps you share your content in a smarter way.
             </p>
             <div className="flex justify-center">
               <Link href="/shorten">
