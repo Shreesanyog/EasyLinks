@@ -39,6 +39,7 @@ const Shorten = () => {
 
     return (
         <div className='mx-auto max-w-lg bg-transparent my-24 p-8 rounded-lg flex flex-col gap-4'>
+            <h3 className=' text-justify text-lg  text-white'>Note: Generation may take some time due to MongoDB usage.</h3>
             <h1 className='font-bold text-center text-4xl my-5 text-white'>Create Short Links</h1>
             <div className='flex flex-col gap-2'>
                 <input type="text"
