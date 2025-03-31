@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# EasyLinks
 
-## Getting Started
+**EasyLinks** is a powerful, easy-to-use URL shortener tool that allows you to instantly shorten long URLs into custom links. It’s perfect for anyone who wants to make their URLs more shareable. Whether you’re looking to shorten links for marketing, social media, or personal use, EasyLinks is the perfect solution.
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
+- **Instant URL Shortening**: Shorten any long URL with a click.
+- **Custom Short Links**: Create personalized, branded URLs with custom slugs.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Smooth Integration**: Integrate the EasyLinks URL shortener seamlessly into your web or mobile app.
+- **Responsive Design**: Built with Tailwind CSS, making the user interface clean and responsive across devices.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tech Stack
+The project is built using the following technologies:
+- **React**: A JavaScript library for building user interfaces, providing a fast and dynamic front-end.
+- **Next.js**: A React framework that enables server-side rendering, static site generation, and routing, making it perfect for fast, SEO-friendly websites.
+- **MongoDB**: A NoSQL database used to store shortened links and track analytics, ensuring data persistence and scalability.
+- **Tailwind CSS**: A utility-first CSS framework that helps quickly design custom, responsive, and clean interfaces.
 
-## Learn More
+## Installation
 
-To learn more about Next.js, take a look at the following resources:
+### Prerequisites
+Make sure you have the following installed:
+- **Node.js** and **npm** (Node Package Manager) installed on your machine.
+- **MongoDB** (or use a cloud-based service like MongoDB Atlas).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+### Key Points:
+- **"Protected by License"**: The project is **protected** by a restrictive license and cannot be used or redistributed without permission.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
