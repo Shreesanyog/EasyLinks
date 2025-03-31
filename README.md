@@ -1,6 +1,6 @@
 # EasyLinks
 
-**EasyLinks** is a powerful, easy-to-use URL shortener tool that allows you to instantly shorten long URLs into custom links. It’s perfect for anyone who wants to make their URLs more shareable. Whether you’re looking to shorten links for marketing, social media, or personal use, EasyLinks is the perfect solution.
+**EasyLinks** is a powerful, easy-to-use URL shortener tool that allows you to instantly shorten long URLs into custom links. It’s perfect for anyone who wants to make their URLs more shareable. Whether you’re looking to shorten links for marketing, social media or personal use, EasyLinks is the perfect solution.
 
 
 
